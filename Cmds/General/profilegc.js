@@ -25,7 +25,7 @@ let ts = await convertTimestamp(info.creation);
 try {
         pp = await client.profilePictureUrl(chat, 'image');
       } catch {
-        pp = 'https://telegra.ph/file/9521e9ee2fdbd0d6f4f1c.jpg';
+        pp = 'https://ibb.co/Xk7HmDWW';
       }
 
 await client.sendMessage(m.chat, { image: { url: pp }, 
