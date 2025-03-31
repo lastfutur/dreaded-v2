@@ -1,4 +1,4 @@
- ***DREADED-V2***
+ ***PANTANE_MD***
 
 <div align="center">
 
@@ -107,33 +107,18 @@ Thanks to...
 
 <div align="center">
 
-| [![Fortunatus Mokaya](https://github.com/Fortunatusmokaya.png?lenght=50width=50)](https://github.com/Fortunatusmokaya)|
-|----|
-* [`Fortunatus mokaya`](https://github.com/Fortunatusmokaya) ***Author, Owner***
-
-
-* [`Malik `](https://github.com/darkLo1rd) ***Debugging, random fixes and additions 🌱***
-
-
-
-* [`DikaArdnt`](https://github.com/DikaArdnt) ***For Hisoka Base***
-* [`Adiwajshing`](https://github.com/WhiskeySockets/Baileys) ***Baileys Library***
-* [`WaSocket Discord`](https://discord.gg/WeJM5FP9GG) ***Maintaining the bot libs***
-
 
 
 ---
 
 
-Incase of any issues, contact me  [here](https://wa.me/+254114018035) via WhatsApp.
+Incase of any issues, contact me  [here](https://wa.me/+254740312402) via WhatsApp.
 
 Modifying the bot structure is at your own risk. We won't offer technical support if error occur, also use bots on WhatsApp at your own risk, you may be flagged for spam.
 
 
-## License
 
-[MIT License](https://github.com/Fortunatusmokaya/dreaded-v2/blob/main/LICENSE)
 
-Copyright (c) 2024 DREADED-V2
+Copyright (c) 2025 PANTANE_MD
 
 
