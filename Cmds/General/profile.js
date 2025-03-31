@@ -14,7 +14,7 @@ module.exports = async (context) => {
         try {
             ppUrl = await client.profilePictureUrl(sender, 'image');
         } catch {
-            ppUrl = "https://telegra.ph/file/95680cd03e012bb08b9e6.jpg";
+            ppUrl = "https://ibb.co/Xk7HmDWW";
         }
 
         let status;
@@ -39,7 +39,7 @@ module.exports = async (context) => {
         try {
             ppUrl = await client.profilePictureUrl(sender, 'image');
         } catch {
-            ppUrl = "https://telegra.ph/file/95680cd03e012bb08b9e6.jpg";
+            ppUrl = "https://ibb.co/Xk7HmDWW";
         }
 
         let status;
