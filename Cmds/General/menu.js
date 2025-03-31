@@ -91,10 +91,10 @@ await client.sendMessage(m.chat, {
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: false,
-                                title: `DREADED V3`,
+                                title: `PANTANE_MD`,
                                 body: `Hi ${m.pushName}`,
                                 thumbnail: pict,
-                                sourceUrl: `https://github.com/Fortunatusmokaya/dreaded-v3`,
+                                sourceUrl: `https://github.com/Pantane1/dreaded-md`,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
