@@ -1,9 +1,9 @@
 //ping.js
 
 module.exports = async (context) => {
-        const { client, m, dreadedspeed } = context;
+        const { client, m, pantane-speed } = context;
 
 
-await m.reply(`Pong\n${dreadedspeed.toFixed(4)}ms`)
+await m.reply(`Pong\n${pantane-speed.toFixed(4)}ms`)
 
 }
