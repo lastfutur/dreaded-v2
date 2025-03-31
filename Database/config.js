@@ -51,14 +51,14 @@ async function initializeDatabase() {
 
         const defaultSettings = {
             prefix: '.',
-            packname: 'dreaded md2 🤖',
-            mode: 'public',
+            packname: 'pantane md 🤖',
+            mode: 'private',
             presence: 'online',
             autoview: 'true',
             autolike: 'true',
-            autoread: 'true',
+            autoread: 'false',
             autobio: 'false',
-            anticall: 'true', 
+            anticall: 'false', 
             reactEmoji: '❤️'  
         };
 
