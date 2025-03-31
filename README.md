@@ -90,7 +90,7 @@ _CTRL + C_
 </details>
 
 ## FEATURES
-`This bot is a modification of the predecessor ***`dreaded-md`*** but we changed the module to commonJs. It has group management features, some media commands, image manipulation commands as well as AI and many other features incorporated.`
+`This bot is a modification of the predecessor ***`PANTANE_MD`*** but we changed the module to commonJs. It has group management features, some media commands, image manipulation commands as well as AI and many other features incorporated.`
 
  `Some AI and media commands use our API. This API is not very reliable hence sometimes there may be a downtime.`
 
