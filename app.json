@@ -1,9 +1,9 @@
 {
-  "name": "DREADED V2",
+  "name": "PANTANE_MD",
   "description": "This is a simple WhatsApp bot built with Node.js and Baileys with MD support.",
-  "website": "https://github.com/Fortunatusmokaya/dreaded-v2#readme",
-  "repository": "https://github.com/Fortunatusmokaya/dreaded-v2.git",
-  "logo": "https://telegra.ph/file/d6dab955fbaa42fce2280.jpg",
+  "website": "https://github.com/Pantane1",
+  "repository": "https://github.com/Pantane1/dreaded-md",
+  "logo": "https://ibb.co/Xk7HmDWW",
   "success_url": "/",
   "env": {
 
