@@ -103,7 +103,7 @@ _CTRL + C_
 
 # Credits
 
-Thanks to...
+Thanks to...MY EFFORTS I'VE BECOME THIS GREAT-BHUDHAA _PANTANE_MD_
 
 <div align="center">
 
